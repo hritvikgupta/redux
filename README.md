@@ -66,7 +66,7 @@ Start the application with npm start
 The application should now be running at localhost:3000.
 
 API Used
-OMDb API
+OMDb API 
 Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 
