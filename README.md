@@ -14,50 +14,48 @@ This is a movie application built with React, Redux and OMDB API. This project a
 The project is organized as follows:
 
 src/
-App.js
-App.scss
-common/
-apis/
-movieApi.js
-MovieApiKey.js
-colors.scss
-components/
-Footer/
-Footer.js
-Footer.scss
-Header/
-Header.js
-Header.scss
-Home/
-Home.js
-Home.scss
-MovieCard/
-MovieCard.js
-MovieCard.scss
-MovieDetail/
-MovieDetail.js
-MovieDetails.scss
-MovieListing/
-MovieListing.js
-MovieListing.scss
-PageNotFound/
-PageNotFound.js
-PageNotFound.scss
-features/
-store.js
-images/
-index.js
-movies/
-movieSlice.js
+  App.js
+  App.scss
+  common/
+    apis/
+      movieApi.js
+      MovieApiKey.js
+    colors.scss
+  components/
+    Footer/
+      Footer.js
+      Footer.scss
+    Header/
+      Header.js
+      Header.scss
+    Home/
+      Home.js
+      Home.scss
+    MovieCard/
+      MovieCard.js
+      MovieCard.scss
+    MovieDetail/
+      MovieDetail.js
+      MovieDetails.scss
+    MovieListing/
+      MovieListing.js
+      MovieListing.scss
+    PageNotFound/
+      PageNotFound.js
+      PageNotFound.scss
+  features/
+    store.js
+  images/
+  index.js
+  movies/
+    movieSlice.js
 
-markdown
-Copy code
 
-# App.js: The entry point of the application
-# components/: This directory contains all the React components used in the application
-# common/: Contains shared utilities, constants and API configurations
-# features/: Contains the Redux store setup
-# movies/: Contains the Redux slice for managing movie-related state
+1. App.js: The entry point of the application
+2. components/: This directory contains all the React components used in the application
+3. common/: Contains shared utilities, constants and API configurations
+4. features/: Contains the Redux store setup
+5. movies/: Contains the Redux slice for managing movie-related state
 
 ### Setup and Installation
 
