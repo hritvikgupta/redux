@@ -12,7 +12,7 @@ This is a movie application built with React, Redux and OMDB API. This project a
 ### Project Structure
 
 The project is organized as follows:
-
+```
 - src/
 - App.js
 - App.scss
@@ -49,7 +49,7 @@ The project is organized as follows:
 - index.js
 - movies/
     - movieSlice.js
-
+```
 
 1. App.js: The entry point of the application
 2. components/: This directory contains all the React components used in the application
